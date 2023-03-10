@@ -11,6 +11,7 @@ namespace AsyncAndAwait
     {
         static void Main(string[] args)
         {
+
             //This task will as the which task having less time.
             Task1();
             Task2();
